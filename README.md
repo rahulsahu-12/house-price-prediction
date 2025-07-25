@@ -1,10 +1,9 @@
-\# 🏠 House Price Prediction using Machine Learning
+🏠 House Price Prediction using Machine Learning
 
 
 This project aims to build a machine learning model that predicts house prices based on various features like location, number of rooms, population, and more. It includes data preprocessing, model training, evaluation, and deployment using \*\*Streamlit\*\*.
 
-
-\## 🚀 Demo
+🚀 Demo
 
 Want to try it out?  
 Run this in your terminal:
